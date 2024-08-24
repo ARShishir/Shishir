@@ -74,13 +74,6 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARShishir&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
-<br/>
-
-
-<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanjimmm&theme=react&exclude=8&border=ffffff" alt="commits per language"/>
-<img width="353" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanjimmm&theme=react&utcOffset=6&border=ffffff" alt="productive time"/>
-
-    
 </div>
 
 
