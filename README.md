@@ -39,10 +39,10 @@
 
 
  <div align="center"> 
-  <a href="https://www.facebook.com/Abdur.Rahaman.Shishir1/" target="_blank">
+  <a href="https://www.facebook.com/shishirvhau" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/+8801636655584" target="_blank">
+  <a href="https://wa.me/+8801560016086" target="_blank">
      <img src="https://img.shields.io/badge/Whatsapp-25FF0000?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
